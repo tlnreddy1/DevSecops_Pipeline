@@ -30,7 +30,7 @@ jobs:
       # - name: Upload Build Artifact
       #   uses: actions/upload-artifact@v3
       #   with:
-      #     name: jar
+      #     name: jar file
       #     path: target/*.jar
         
     #   - name: Configure JFrog CLI
